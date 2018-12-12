@@ -1,0 +1,40 @@
+/* Creado por Víctor Pascual Muñoz */
+@charset "utf-8";
+body {
+    background-color: #D3DBDE;
+    font-family: sans-serif;
+}
+h1 {
+    font-size: 250%;
+    text-align: center;
+    text-transform: uppercase;
+}
+h2 {
+    color: rgb(65, 80, 88);  /* El color esta en rgb porque el colorzilla no lo cogía bien */
+    background-color: #7B929D;
+    text-decoration: underline;
+    font-size: 200%;
+} 
+h3 {
+    color: rgb(65, 80, 88);
+    background-color: #98AAB3;
+    font-style: oblique;
+    font-size: 130%;
+}
+strong {
+    color: #006699;
+    font-weight: normal;
+}
+em {
+    color: #0095CB;
+    font-style: normal;
+    font-weight: bold;
+}
+p {
+    background-color: #B6C2C9;
+} 
+address {
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+}
